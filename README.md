@@ -13,5 +13,5 @@ Skills: Python / SQL / R / Power BI / Tableau / Microsoft Dynamics 365 BC / SAP 
 - 📫 How to reach me: www.linkedin.com/in/muarslankhalid
 - 😄 Pronouns: He/Him
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muarslankhalid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muarslankhalid//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muarslankhalid/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muarslankhalid)
