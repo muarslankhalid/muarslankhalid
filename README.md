@@ -1,4 +1,4 @@
-![Financial Data Analyst](https://media.licdn.com/dms/image/C4E16AQFWMvfGi49Xpw/profile-displaybackgroundimage-shrink_350_1400/0/1649382882658?e=1700697600&v=beta&t=qHDkNfH3oI5WJggCTvwHBH0FIW6gIXocH7dB8LtNt-U)
+![ezgif com-webp-to-jpg](https://github.com/muarslankhalid/muarslankhalid/assets/104303875/8d4c9e22-cce4-4c08-a503-30e0e9d3b426)
 
 ### Hi there 👋, It's me, Muhammad Arslan
 #### Financial Data Analyst
