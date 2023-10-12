@@ -7,12 +7,13 @@ Strategic and highly skilled financial management professional with hands-on exp
 
 Skills: Python / SQL / R / Power BI / Tableau / Microsoft Dynamics 365 BC / SAP S/4HANA
 
-- 🔭 I’m currently working on Panasonic
+
+-  😄 Pronouns: He/Him
+- 🔭 I’m currently working at Panasonic Automotive
+-  :mortar_board: Masters in Operation Research & Business Analytics (Specialization: Financial Engineering)
 - 🌱 I’m currently learning CFA Level 1
 - 💬 Ask me about Sustainable Finance, Fintech & Machine Learning in Finance
 - 📫 How to reach me: www.linkedin.com/in/muarslankhalid
-- 😄 Pronouns: He/Him
-- :mortar_board: Masters in Operation Research & Business Analytics (Specialization: Financial Engineering)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muarslankhalid/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muarslankhalid)
